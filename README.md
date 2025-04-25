@@ -7,9 +7,9 @@ mail: skazak16ku@gmail.com
 
 education: Koç University Computer Science and Engineering
 
-https://serkankazak.github.io/me
+site: https://serkankazak.github.io/me
 
-https://www.linkedin.com/in/serkan-kazak-57331827b
+social: https://www.linkedin.com/in/serkan-kazak-57331827b
 ```
 
 <!--
