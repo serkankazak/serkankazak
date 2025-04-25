@@ -1,12 +1,16 @@
 ## Hi there 👋
 
+``` yaml
 name: Serkan Kazak
-
-site: https://serkankazak.github.io/me
 
 mail: skazak16ku@gmail.com
 
 education: Koç University Computer Science and Engineering
+
+https://serkankazak.github.io/me
+
+https://www.linkedin.com/in/serkan-kazak-57331827b
+```
 
 <!--
 **serkankazak/serkankazak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
