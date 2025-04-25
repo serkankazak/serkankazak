@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 name: Serkan Kazak
+
 site: https://serkankazak.github.io/me
+
 mail: skazak16ku@gmail.com
+
 education: Koç University Computer Science and Engineering
 
 <!--
