@@ -5,7 +5,7 @@
 ``` yaml
 name: Serkan Kazak
 
-mail: skazak16ku@gmail.com
+mail: serkankazak0@proton.me
 
 education: Koç University Computer Science and Engineering
 
