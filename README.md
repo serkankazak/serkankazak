@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/erkankazak/serkankazak/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/serkankazak/serkankazak/pusheencode.gif" />
 
 ``` yaml
 name: Serkan Kazak
