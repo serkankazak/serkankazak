@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="250px" alt="GIF" src="https://raw.githubusercontent.com/serkankazak/serkankazak/refs/heads/main/pusheencode.gif" />
+<img align="right" width="350px" alt="GIF" src="https://raw.githubusercontent.com/serkankazak/serkankazak/refs/heads/main/pusheencode.gif" />
 
 ``` yaml
 name: Serkan Kazak
@@ -8,6 +8,7 @@ name: Serkan Kazak
 mail: serkankazak0@proton.me
 
 education: Koç University Computer Science and Engineering
+    (lots of CS courses taken in Bilkent University)
 
 site: https://serkankazak.github.io/me
 
