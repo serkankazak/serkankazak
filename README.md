@@ -14,6 +14,8 @@ site: https://serkankazak.github.io/me
 
 social: https://www.linkedin.com/in/serkan-kazak-57331827b
 
+videos: https://www.youtube.com/@serkan_kazak
+
 courses taken:
     - CS 111 Introduction to Computing in Engineering and Science
     - CS 102 Algorithms and Programming II
